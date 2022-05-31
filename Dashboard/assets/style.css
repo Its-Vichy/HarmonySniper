@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+*,
+*::before,
+*::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Poppins", sans-serif;
+    background: #F3F4F6;
+}
+
+.avatar {
+    border-radius: 50%;
+    width: 60px;
+    height: 60px;
+}
+
+.dstat_menu {
+    background: #eeeeee;
+    border-color: #9CA3AF;
+    border-width: 1px;
+    border-style: solid;
+
+    width: 65%;
+    margin: 20px 20px 20px 20px;
+}
