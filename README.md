@@ -2,6 +2,8 @@
 
 <p align='center'>
     <img src='https://media.discordapp.net/attachments/965637518353629205/981055054129811456/unknown.png'>
+    <img src='https://media.discordapp.net/attachments/980157887106146444/980852763372183642/unknown.png'>
+    <img src='https://media.discordapp.net/attachments/980157887106146444/980904608358596608/unknown.png'>
 </p>
 
 -----
